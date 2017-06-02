@@ -1,0 +1,67 @@
+/* feuille de style pour la page connexion
+ auteur : par Rémi Hillériteau */
+body 		
+{
+	display: block;
+	position: absolute;
+	background: rgba(10, 100, 255, 0.5);
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+
+}
+
+.pageConnexion
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    min-width: 380px;
+    min-height: 250px;
+}
+.ChampConnexion
+{
+
+	width: 380px;
+	min-height: 250px;
+}
+.Connexion
+{
+	text-align: center;
+	color: white;
+}
+p.Connexion 
+{
+	font-family: italic;
+	text-decoration: none!important;
+	border: none!important;
+	background: none!important;
+}
+h1.Connexion
+{
+	font-size: 45px;
+}
+input.Connexion
+{
+
+	border: solid 1px white;
+	background: white;
+	color: rgba(10, 100, 255, 0.5);
+	border-radius: 5px;
+
+}
+.passwordConnexion
+{
+	border-radius: 5px;
+}
+.alerteViolet
+{
+	color: rgba(100,10,100, 0.5);
+	font-size: 22px;
+	text-align: center;
+	font-style: italic;
+
+}
