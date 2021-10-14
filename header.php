@@ -6,4 +6,4 @@ Nom de l'auteur : Rémi Hillériteau -->
 <meta name="description" content="Gestion de l'infirmerie du collège Saint-Exupéry de Cholet" />
 <meta name="keywords" content="gestion, infirmerie, collège, Saint-Exupéry, Cholet" />
 <meta name="generator" content="Sublime Text 2" />
-<meta name="author" content="Maxime Dupond, Marin Mabon et Rémi Hillériteau en BTS SIO à Sainte Marie de Cholet">
+<meta name="author" content="Maxime D, Marin M et Rémi H en BTS SIO à Sainte Marie de Cholet">
